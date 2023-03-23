@@ -1,0 +1,11 @@
+C:\Users\omarc\source\repos\Trabajo\Trabajo\bin\Debug\Trabajo.exe.config
+C:\Users\omarc\source\repos\Trabajo\Trabajo\bin\Debug\Trabajo.exe
+C:\Users\omarc\source\repos\Trabajo\Trabajo\bin\Debug\Trabajo.pdb
+C:\Users\omarc\source\repos\Trabajo\Trabajo\obj\Debug\Trabajo.csproj.AssemblyReference.cache
+C:\Users\omarc\source\repos\Trabajo\Trabajo\obj\Debug\Trabajo.csproj.SuggestedBindingRedirects.cache
+C:\Users\omarc\source\repos\Trabajo\Trabajo\obj\Debug\Trabajo.Form1.resources
+C:\Users\omarc\source\repos\Trabajo\Trabajo\obj\Debug\Trabajo.Properties.Resources.resources
+C:\Users\omarc\source\repos\Trabajo\Trabajo\obj\Debug\Trabajo.csproj.GenerateResource.cache
+C:\Users\omarc\source\repos\Trabajo\Trabajo\obj\Debug\Trabajo.csproj.CoreCompileInputs.cache
+C:\Users\omarc\source\repos\Trabajo\Trabajo\obj\Debug\Trabajo.exe
+C:\Users\omarc\source\repos\Trabajo\Trabajo\obj\Debug\Trabajo.pdb
